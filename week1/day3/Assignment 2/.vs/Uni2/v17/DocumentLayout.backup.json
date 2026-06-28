@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|c:\\users\\dabbaghie tek\\source\\repos\\assignment 2\\assignment 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|solutionrelative:assignment 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|c:\\users\\dabbaghie tek\\source\\repos\\assignment 2\\assignment 2\\migrations\\20260628105155_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|solutionrelative:assignment 2\\migrations\\20260628105155_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|c:\\users\\dabbaghie tek\\source\\repos\\assignment 2\\assignment 2\\universitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|solutionrelative:assignment 2\\universitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|c:\\users\\dabbaghie tek\\source\\repos\\assignment 2\\assignment 2\\classmapping\\coursesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|solutionrelative:assignment 2\\classmapping\\coursesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|c:\\users\\dabbaghie tek\\source\\repos\\assignment 2\\assignment 2\\classmapping\\commentsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|solutionrelative:assignment 2\\classmapping\\commentsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|c:\\users\\dabbaghie tek\\source\\repos\\assignment 2\\assignment 2\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|solutionrelative:assignment 2\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|c:\\users\\dabbaghie tek\\source\\repos\\assignment 2\\assignment 2\\classmapping\\usersconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|solutionrelative:assignment 2\\classmapping\\usersconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|c:\\users\\dabbaghie tek\\source\\repos\\assignment 2\\assignment 2\\classmapping\\syllabusconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|solutionrelative:assignment 2\\classmapping\\syllabusconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|c:\\users\\dabbaghie tek\\source\\repos\\assignment 2\\assignment 2\\classmapping\\gradesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|solutionrelative:assignment 2\\classmapping\\gradesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|c:\\users\\dabbaghie tek\\source\\repos\\assignment 2\\assignment 2\\models\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|solutionrelative:assignment 2\\models\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|c:\\users\\dabbaghie tek\\source\\repos\\assignment 2\\assignment 2\\classmapping\\assignmentsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|solutionrelative:assignment 2\\classmapping\\assignmentsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|c:\\users\\dabbaghie tek\\source\\repos\\assignment 2\\assignment 2\\models\\assignments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|solutionrelative:assignment 2\\models\\assignments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|c:\\users\\dabbaghie tek\\source\\repos\\assignment 2\\assignment 2\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|solutionrelative:assignment 2\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|c:\\users\\dabbaghie tek\\source\\repos\\assignment 2\\assignment 2\\models\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|solutionrelative:assignment 2\\models\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|c:\\users\\dabbaghie tek\\source\\repos\\assignment 2\\assignment 2\\models\\syllabus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|solutionrelative:assignment 2\\models\\syllabus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|c:\\users\\dabbaghie tek\\source\\repos\\assignment 2\\assignment 2\\uni2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|solutionrelative:assignment 2\\uni2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|c:\\users\\dabbaghie tek\\source\\repos\\assignment 2\\assignment 2\\migrations\\20260628104205_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5590BA2D-D6D1-4832-B616-749430428EB0}|Assignment 2\\Uni2.csproj|solutionrelative:assignment 2\\migrations\\20260628104205_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260628105155_InitialCreate1.cs",
+              "DocumentMoniker": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\Migrations\\20260628105155_InitialCreate1.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\Migrations\\20260628105155_InitialCreate1.cs",
+              "ToolTip": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\Migrations\\20260628105155_InitialCreate1.cs",
+              "RelativeToolTip": "Assignment 2\\Migrations\\20260628105155_InitialCreate1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T10:51:55.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260628104205_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\Migrations\\20260628104205_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\Migrations\\20260628104205_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\Migrations\\20260628104205_InitialCreate.cs",
+              "RelativeToolTip": "Assignment 2\\Migrations\\20260628104205_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T10:42:05.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoursesConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\ClassMapping\\CoursesConfiguration.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\ClassMapping\\CoursesConfiguration.cs",
+              "ToolTip": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\ClassMapping\\CoursesConfiguration.cs",
+              "RelativeToolTip": "Assignment 2\\ClassMapping\\CoursesConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T21:46:26.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommentsConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\ClassMapping\\CommentsConfiguration.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\ClassMapping\\CommentsConfiguration.cs",
+              "ToolTip": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\ClassMapping\\CommentsConfiguration.cs",
+              "RelativeToolTip": "Assignment 2\\ClassMapping\\CommentsConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T21:50:48.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\Program.cs",
+              "ToolTip": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\Program.cs*",
+              "RelativeToolTip": "Assignment 2\\Program.cs*",
+              "ViewState": "AgIAAF8BAAAAAAAAAAAAAHEBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T20:20:15.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UniversityDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\UniversityDbContext.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\UniversityDbContext.cs",
+              "ToolTip": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\UniversityDbContext.cs",
+              "RelativeToolTip": "Assignment 2\\UniversityDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T00:30:06.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\ClassMapping\\UsersConfiguration.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\ClassMapping\\UsersConfiguration.cs",
+              "ToolTip": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\ClassMapping\\UsersConfiguration.cs",
+              "RelativeToolTip": "Assignment 2\\ClassMapping\\UsersConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T01:21:29.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SyllabusConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\ClassMapping\\SyllabusConfiguration.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\ClassMapping\\SyllabusConfiguration.cs",
+              "ToolTip": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\ClassMapping\\SyllabusConfiguration.cs",
+              "RelativeToolTip": "Assignment 2\\ClassMapping\\SyllabusConfiguration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T21:51:33.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\Models\\Users.cs",
+              "RelativeToolTip": "Assignment 2\\Models\\Users.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T00:55:20.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GradesConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\ClassMapping\\GradesConfiguration.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\ClassMapping\\GradesConfiguration.cs",
+              "ToolTip": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\ClassMapping\\GradesConfiguration.cs",
+              "RelativeToolTip": "Assignment 2\\ClassMapping\\GradesConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T21:50:25.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\Models\\Comments.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\Models\\Comments.cs",
+              "ToolTip": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\Models\\Comments.cs",
+              "RelativeToolTip": "Assignment 2\\Models\\Comments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T00:57:41.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssignmentsConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\ClassMapping\\AssignmentsConfiguration.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\ClassMapping\\AssignmentsConfiguration.cs",
+              "ToolTip": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\ClassMapping\\AssignmentsConfiguration.cs",
+              "RelativeToolTip": "Assignment 2\\ClassMapping\\AssignmentsConfiguration.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T21:51:08.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Assignments.cs",
+              "DocumentMoniker": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\Models\\Assignments.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\Models\\Assignments.cs",
+              "ToolTip": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\Models\\Assignments.cs",
+              "RelativeToolTip": "Assignment 2\\Models\\Assignments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T01:14:30.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Syllabus.cs",
+              "DocumentMoniker": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\Models\\Syllabus.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\Models\\Syllabus.cs",
+              "ToolTip": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\Models\\Syllabus.cs",
+              "RelativeToolTip": "Assignment 2\\Models\\Syllabus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T00:57:27.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Grades.cs",
+              "DocumentMoniker": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\Models\\Grades.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\Models\\Grades.cs",
+              "ToolTip": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\Models\\Grades.cs",
+              "RelativeToolTip": "Assignment 2\\Models\\Grades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T00:57:17.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\Models\\Courses.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\Models\\Courses.cs",
+              "ToolTip": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\Models\\Courses.cs",
+              "RelativeToolTip": "Assignment 2\\Models\\Courses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T00:57:02.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Uni2.csproj",
+              "DocumentMoniker": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\Uni2.csproj",
+              "RelativeDocumentMoniker": "Assignment 2\\Uni2.csproj",
+              "ToolTip": "C:\\Users\\DABBAGHIE TEK\\source\\repos\\Assignment 2\\Assignment 2\\Uni2.csproj",
+              "RelativeToolTip": "Assignment 2\\Uni2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-25T00:28:53.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
